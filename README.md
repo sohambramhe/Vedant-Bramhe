@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **sohambramhe010@gmail.com** For Collaboration/Project or A
 👯 I’m looking to collaborate on innovative web applications and open-source MERN stack projects.
 🤔 I’m looking for help with improving scalable backend architecture and deployment strategies.
 💬 Ask me about MERN Stack development, React.js, JavaScript, and tech collaboration.
-📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
+📫 Reach me at: [sohambramhe010@gmail.com](mailto:sohambramhe010@gmail.com)
 😄 Pronouns: He/Him
 ⚡ Fun fact: I love exploring new technologies, and coding is my favorite way to solve real-world problems.
 
